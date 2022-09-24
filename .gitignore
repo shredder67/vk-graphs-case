@@ -1,0 +1,17 @@
+data/
+__MACOSX
+catboost_info/
+**/*.csv
+..gitignore.swp
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.conda/
+.cufflinks/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.profile
+.wget-hsts
