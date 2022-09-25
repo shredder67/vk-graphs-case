@@ -15,3 +15,9 @@ catboost_info/
 .local/
 .profile
 .wget-hsts
+.gitconfig
+.gitignore.save
+.ssh/
+ghkey
+ghkey.pub
+
